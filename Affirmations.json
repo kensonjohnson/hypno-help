@@ -442,6 +442,167 @@
   },
   {
     "headerTitle": "Mental Health",
-    "categories": []
+    "categories": [
+      {
+        "title": "Healing From Mental Illness",
+        "affirmations": [
+          {
+            "id": "healing_from_1",
+            "affirmation": "I am healed from anxiety"
+          },
+          {
+            "id": "healing_from_2",
+            "affirmation": "Healing from depression is possible"
+          },
+          {
+            "id": "healing_from_3",
+            "affirmation": "I am capable of healing depression"
+          },
+          {
+            "id": "healing_from_4",
+            "affirmation": "I am healed of depression"
+          }
+        ]
+      },
+      {
+        "title": "Depression",
+        "affirmations": [
+          {
+            "id": "depression_1",
+            "affirmation": "I am managing my depressing thoughts"
+          },
+          {
+            "id": "depression_2",
+            "affirmation": "I am strong enough to handle this"
+          },
+          {
+            "id": "depression_3",
+            "affirmation": "I have what it takes to get through this"
+          },
+          {
+            "id": "depression_4",
+            "affirmation": "I can and will heal from depression"
+          },
+          {
+            "id": "depression_5",
+            "affirmation": "It's time to outgrow depression"
+          },
+          {
+            "id": "depression_6",
+            "affirmation": "I am capable of managing depression symptoms"
+          }
+        ]
+      },
+      {
+        "title": "Self Acceptance",
+        "affirmations": [
+          {
+            "id": "self_acceptance_1",
+            "affirmation": "I celebrate the good things about my life"
+          },
+          {
+            "id": "self_acceptance_2",
+            "affirmation": "I celebrate the good things about myself"
+          },
+          {
+            "id": "self_acceptance_3",
+            "affirmation": "I have so much to be grateful for"
+          },
+          {
+            "id": "self_acceptance_4",
+            "affirmation": "I am much more than how I feel right now"
+          },
+          {
+            "id": "self_acceptance_5",
+            "affirmation": "I am worthy of great things in my life"
+          }
+        ]
+      },
+      {
+        "title": "Inspiration",
+        "affirmations": [
+          {
+            "id": "inspiration_1",
+            "affirmation": "I knew I'd find inspiration to change"
+          },
+          {
+            "id": "inspiration_2",
+            "affirmation": "I will find inspiration to change"
+          },
+          {
+            "id": "inspiration_3",
+            "affirmation": "My Life's possibilities are endless"
+          },
+          {
+            "id": "inspiration_4",
+            "affirmation": "I knew my mind would be whole"
+          },
+          {
+            "id": "inspiration_5",
+            "affirmation": "I am motivated to fight for my life"
+          }
+        ]
+      },
+      {
+        "title": "Strength",
+        "affirmations": [
+          {
+            "id": "strength_1",
+            "affirmation": "I will navigate these feelings with strength and love"
+          },
+          {
+            "id": "strength_2",
+            "affirmation": "I am mentally strong and stable"
+          },
+          {
+            "id": "strength_3",
+            "affirmation": "I am optimistic"
+          },
+          {
+            "id": "strength_4",
+            "affirmation": "I am capable of managing anxiety symptoms"
+          }
+        ]
+      },
+      {
+        "title": "Self Love",
+        "affirmations": [
+          {
+            "id": "self_love_1",
+            "affirmation": "I love you"
+          },
+          {
+            "id": "self_love_2",
+            "affirmation": "You are safe"
+          }
+        ]
+      },
+      {
+        "title": "Spirituality",
+        "affirmations": [
+          {
+            "id": "spirituality_1",
+            "affirmation": "God has given me a sound mind"
+          }
+        ]
+      },
+      {
+        "title": "Negative Thoughts",
+        "affirmations": [
+          {
+            "id": "negative_thoughts_1",
+            "affirmation": "My repetitive thoughts are not facts"
+          },
+          {
+            "id": "negative_thoughts_2",
+            "affirmation": "My subconscious fear patterns are healed"
+          },
+          {
+            "id": "negative_thoughts_3",
+            "affirmation": "Gain momentum by taking small steps"
+          }
+        ]
+      }
+    ]
   }
 ]
